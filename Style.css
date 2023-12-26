@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+}
+
+/* body{
+    
+} */
+
+#container{ 
+  background-image: url(./67bf01b0-bc2e-11ea-bf75-9633bb9c4078.webp);
+  background-repeat: no-repeat;
+  background-size: cover; 
+
+    gap: 35px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: bisque;
+  
+}
+
+
+
+#input{
+  height: 3.5vh;
+  width: 22vh;
+border-radius: 3vh;
+padding: 6px;
+
+}
+#btn{
+  height: 5vh;
+  width: 10vh;
+  border-radius: 3vh;
+  padding: 5px;
+  
+}
+#btn:hover {background-color: red}
+#card{
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+    justify-content: center;
+     height: 40vh;
+     background-color: aliceblue;
+     width: 50vh ;   
+     border-radius: 3vh;
+
+}
+#box1{
+  font-size: 130%;
+margin-top: 5vh;
+  width: 80%;
+  height: 90%;
+display: flex;
+justify-content: space-between;
+
+}
+#box2{
+  font-size: 300%;
+  width: 80%;
+  height: 90%;
+display: flex;
+justify-content: center;
+
+}
+#box3{
+  font-size: 130%;
+  width: 80%;
+  height: 90%;
+display: flex;
+justify-content: space-between;
+
+}
+
+#icon {
+  width: 25%;
+  height: 30%;
+  
+}
